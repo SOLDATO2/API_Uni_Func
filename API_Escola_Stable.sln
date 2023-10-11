@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Escola_Stable", "API_Escola_Stable\API_Escola_Stable.csproj", "{CC0723E7-60B2-4EC2-85E0-E53C9F5B71B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API_Uni_Func", "API_Escola_Stable\API_Uni_Func.csproj", "{CC0723E7-60B2-4EC2-85E0-E53C9F5B71B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

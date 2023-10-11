@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 //CHATGPT
 // Classe Professor
-namespace API_Escola_Stable.Models
+namespace API_Uni_Func.Models
 {
     public class Professor
     {

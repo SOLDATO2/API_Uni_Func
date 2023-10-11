@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
-//GRABRIEL
-namespace API_Escola_Stable.Models
+//GABRIEL
+namespace API_Uni_Func.Models
 {
     public class Matricula
     {

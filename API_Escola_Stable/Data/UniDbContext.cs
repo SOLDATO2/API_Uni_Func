@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using API_Escola_Stable.Models;
-namespace API_Escola_Stable.Data
+using API_Uni_Func.Models;
+namespace API_Uni_Func.Data
 {
     public class UniDbContext : DbContext
     {

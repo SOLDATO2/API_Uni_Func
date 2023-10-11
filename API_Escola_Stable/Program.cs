@@ -1,4 +1,4 @@
-using API_Escola_Stable.Data;
+using API_Uni_Func.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

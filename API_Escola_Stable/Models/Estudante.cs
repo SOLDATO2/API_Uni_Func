@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations; 
 //FELIPE
-namespace API_Escola_Stable.Models
+namespace API_Uni_Func.Models
 {
     public class Estudante
     {

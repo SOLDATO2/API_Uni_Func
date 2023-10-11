@@ -1,11 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using API_Escola_Stable.Models;
-using API_Escola_Stable.Data;
+using API_Uni_Func.Models;
+using API_Uni_Func.Data;
 
 //FELIPE
 //ok
-namespace API_Escola_Stable.Controllers
+namespace API_Uni_Func.Controllers
 {
     [ApiController]
     [Route("[controller]")]
