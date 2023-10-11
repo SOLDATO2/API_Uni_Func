@@ -4,8 +4,9 @@
 # Integrantes do Grupo 👥
 
 Felipe Porto Caldeira do Nascimento, 
-Alexandre Henning Wahl e 
-Gabriel Consulo.
+Alexandre Henning Wahl,
+Gabriel Consulo e
+CHATGPT.
 
 
 # Funções 📋
@@ -30,6 +31,14 @@ O ChatGPT foi utilizado para criar duas classes no projeto: Livro e Professor. O
 Também utilizamos o ChatGPT para esclarecer dúvidas relacionadas às funções de bibliotecas usadas no projeto.
 
 # Videos
+
+Felipe Porto Caldeira do Nascimento & CHATGPT
+>https://www.youtube.com/watch?v=TJN_KXlAYBI
+
+Gabriel Consulo
+>https://www.youtube.com/watch?v=lZGaMhf7R8A
+
+Alexandre Henning Wahl
 
 
 # Modelo (Diagrama)
