@@ -30,3 +30,10 @@ O ChatGPT foi utilizado para criar duas classes no projeto: Livro e Professor. O
 Também utilizamos o ChatGPT para esclarecer dúvidas relacionadas às funções de bibliotecas usadas no projeto.
 
 # Videos
+
+
+# Modelo (Diagrama)
+
+https://prnt.sc/xQDtAvKkuvbM
+
+(Pdf se encontra nos arquivos do projeto)
