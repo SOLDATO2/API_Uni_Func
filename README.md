@@ -51,6 +51,9 @@ Gabriel Consulo:
 
 Alexandre Henning Wahl:
 
+(Explicação detalhada & demonstração no swagger), 
+
+>https://youtu.be/iFiez5pn_Xk
 
 # Modelo (Diagrama)
 
