@@ -4,8 +4,8 @@
 # Integrantes do Grupo 👥
 
 Felipe Porto Caldeira do Nascimento, 
-Alexandre do Wahl, 
-Gabriel Consulo, 
+Alexandre do Wahl e 
+Gabriel Consulo.
 
 
 # Funções 📋
@@ -13,15 +13,15 @@ O projeto permite criar, ler, atualizar e deletar informações de todas as tabe
 
 As seguintes classes estão disponíveis para manipulação:
 
-Autor
-Livro
-Estudante
-Matrícula
-Curso
-Cronograma
-Professor
-Aula
-Sala
+Autor, 
+Livro,
+Estudante, 
+Matrícula, 
+Curso, 
+Cronograma, 
+Professor, 
+Aula, 
+Sala e
 Disciplina
 
 # Utilização do ChatGPT 🤖
