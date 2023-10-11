@@ -20,11 +20,11 @@ namespace API_Escola_Stable.Controllers
         //CADASTRAR CRONOGRAMA
         [HttpPost]
         [Route("cadastrar")]
-        public IActionResult Cadastrar(Autor autor)
+        public IActionResult Cadastrar(Cronograma cronograma)
         {
-            _context.Add(autor);
+            _context.Add(cronograma);
             _context.SaveChanges();
-            return Created("", autor);
+            return Created("", cronograma);
         }
 
         // BUSCAR TODOS OS CRONOGRAMAS
