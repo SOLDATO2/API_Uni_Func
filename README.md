@@ -4,7 +4,7 @@
 # Integrantes do Grupo 👥
 
 Felipe Porto Caldeira do Nascimento, 
-Alexandre do Wahl e 
+Alexandre Henning Wahl e 
 Gabriel Consulo.
 
 
