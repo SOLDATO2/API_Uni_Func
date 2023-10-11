@@ -21,7 +21,8 @@ Matrícula,
 Curso, 
 Cronograma, 
 Professor, 
-Aula, 
+Aula,
+Autor, 
 Sala e
 Disciplina
 
