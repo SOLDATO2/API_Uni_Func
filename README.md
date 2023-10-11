@@ -33,13 +33,19 @@ Também utilizamos o ChatGPT para esclarecer dúvidas relacionadas às funções
 # Videos
 
 Felipe Porto Caldeira do Nascimento & CHATGPT
-(Explicação detalhada)
+
+(Explicação detalhada), 
+
 >https://www.youtube.com/watch?v=TJN_KXlAYBI
-(Demonstração no swagger)
+
+(Demonstração no swagger), 
+
 >https://www.youtube.com/watch?v=zvhPkDjwAYQ
 
 Gabriel Consulo
-(Explicação detalhada & demonstração no swagger)
+
+(Explicação detalhada & demonstração no swagger), 
+
 >https://www.youtube.com/watch?v=lZGaMhf7R8A
 
 Alexandre Henning Wahl
