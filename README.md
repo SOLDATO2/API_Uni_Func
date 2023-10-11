@@ -27,7 +27,7 @@ Sala e
 Disciplina
 
 # Utilização do ChatGPT 🤖
-O ChatGPT foi utilizado para criar duas classes no projeto: Livro e Professor. Optamos por seguir os exemplos apresentados pelo professor durante as aulas para criar os CRUDs e Controllers. Portanto, fornecemos ao ChatGPT o contexto em que a tabela seria aplicada, juntamente com um exemplo de CRUD e controller de outra classe, produzida por um dos integrantes do grupo. Isso permitiu ao ChatGPT gerar código com o mesmo estilo dos demais integrantes.
+O ChatGPT foi utilizado para criar duas classes no projeto: Livro e Professor. Optamos por seguir os exemplos apresentados pelo professor durante as aulas para criar os CRUDs e Controllers. Portanto, fornecemos ao ChatGPT o contexto em que a tabela seria aplicada, juntamente com um exemplo de CRUD e controller de outra classe, produzida por nós. Isso permitiu ao ChatGPT gerar código com o mesmo estilo do nosso código.
 
 Também utilizamos o ChatGPT para esclarecer dúvidas relacionadas às funções de bibliotecas usadas no projeto.
 
