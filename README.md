@@ -33,7 +33,7 @@ Também utilizamos o ChatGPT para esclarecer dúvidas relacionadas às funções
 
 # Videos
 
-Felipe Porto Caldeira do Nascimento & CHATGPT
+Felipe Porto Caldeira do Nascimento & CHATGPT:
 
 (Explicação detalhada), 
 
@@ -43,13 +43,13 @@ Felipe Porto Caldeira do Nascimento & CHATGPT
 
 >https://www.youtube.com/watch?v=zvhPkDjwAYQ
 
-Gabriel Consulo
+Gabriel Consulo:
 
 (Explicação detalhada & demonstração no swagger), 
 
 >https://www.youtube.com/watch?v=lZGaMhf7R8A
 
-Alexandre Henning Wahl
+Alexandre Henning Wahl:
 
 
 # Modelo (Diagrama)
