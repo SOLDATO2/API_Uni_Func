@@ -56,7 +56,5 @@ Alexandre Henning Wahl:
 >https://youtu.be/iFiez5pn_Xk
 
 # Modelo (Diagrama)
-
-https://prnt.sc/xQDtAvKkuvbM
-
+https://prnt.sc/VxeRCiNeXSly
 (Pdf se encontra nos arquivos do projeto)
