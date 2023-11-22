@@ -12,6 +12,6 @@ namespace API_Uni_Func.Models
         public string? Titulo { get; set; }
 
         // Propriedade para os autores do livro
-        public List<Autor>? Autores { get; set; }
+        public List<Autor>? Autores { get; set; } // n para n Livros e autores
     }
 }

@@ -8,5 +8,6 @@ namespace API_Uni_Func.Models
         [Key]
         public int? AutorId { get; set; }
         public string? Nome { get; set; }
+        public List<Livro>? Livros { get; set; } // n para n Livros e autores
     }
 }

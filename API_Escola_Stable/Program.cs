@@ -11,6 +11,8 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<UniDbContext>(); // Olhar a dependencia (dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL)
 
+builder.Services.AddCors(); // cors FRONT END
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -20,7 +22,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection(); causa um erro caso nao esteja comentado
+
+app.UseCors(opcoes => opcoes.AllowAnyOrigin().AllowAnyHeader()); // useCors FRONT END
 
 app.UseAuthorization();
 

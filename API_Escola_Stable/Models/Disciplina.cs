@@ -7,11 +7,13 @@ namespace API_Uni_Func.Models
         [Key]
         public int? IdDisciplina { get; set; }
 
+        public int? IdProfessor { get; set; }
+
+        public Professor? ProfessorResponsavel { get; set; }
+
         public string? NomeDiciplina { get; set; }
 
         public int? CargaHoraria { get; set; }
-        
-        public Professor? ProfessorResponsavel { get; set; }
 
     }
 
